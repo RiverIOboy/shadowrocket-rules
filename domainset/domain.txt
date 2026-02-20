@@ -1,4 +1,4 @@
-DOMAIN,https://ifconfig.me
-DOMAIN-SUFFIX,www.whatismyip.com
+ifconfig.me
+www.whatismyip.com
 DOMAIN,whatismyipaddress.com
 DOMAIN-SUFFIX,youtube.com
