@@ -1,4 +1,4 @@
 ifconfig.me
-www.whatismyip.com
-DOMAIN,whatismyipaddress.com
-DOMAIN-SUFFIX,youtube.com
+whatismyip.com
+whatismyipaddress.com
+youtube.com
