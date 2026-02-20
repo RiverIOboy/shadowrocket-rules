@@ -1,1 +1,1 @@
-DOMAIN-SUFFIX,ifconfig.me
+ifconfig.me
