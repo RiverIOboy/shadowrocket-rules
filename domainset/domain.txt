@@ -1,2 +1,2 @@
-ifconfig.me
-whatismyipaddress.com
+DOMAIN_SUFFIX,ifconfig.me
+DOMAIN,whatismyipaddress.com
