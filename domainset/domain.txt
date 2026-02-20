@@ -1,4 +1,4 @@
 ifconfig.me
-whatismyip.com
+www.whatismyip.com
 whatismyipaddress.com
-youtube.com
+www.youtube.com
