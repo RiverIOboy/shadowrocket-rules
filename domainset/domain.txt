@@ -1,2 +1,1 @@
-example.com
-gstatic.com
+whatismyipaddress.com
