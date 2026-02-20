@@ -1,2 +1,2 @@
-https://whatismyipaddress.com
-https://ifconfig.me
+whatismyipaddress.com
+ifconfig.me
