@@ -1,2 +1,1 @@
-whatismyipaddress.com
 ifconfig.me
