@@ -1,2 +1,3 @@
 DOMAIN,ifconfig.me
+DOMAIN,www.ifconfig.me
 DOMAIN,whatismyipaddress.com
