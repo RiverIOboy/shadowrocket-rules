@@ -1,5 +1,5 @@
-ifconfig.me
-www.whatismyip.com
-whatismyipaddress.com
-www.youtube.com
-www.facebook.com
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,www.whatismyip.com
+DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN-SUFFIX,www.youtube.com
+DOMAIN-SUFFIX,www.facebook.com
